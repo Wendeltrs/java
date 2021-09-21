@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class MiniProjeto {
-    Brinquedo brinquedo[] = new Brinquedo(40);
+public class Registro {
     public static void main(String[]args){
+        Brinquedo brinquedo[] = new Brinquedo(40);
         Scanner minip = new Scanner(System.in);
         int i;
         int cod;
