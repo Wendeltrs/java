@@ -1,4 +1,4 @@
-package LoianeEx1;
+package ContaBanco;
 
 public abstract class ContaBancaria {
     private String nomeCliente;
