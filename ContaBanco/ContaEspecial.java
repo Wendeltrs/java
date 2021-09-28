@@ -1,4 +1,4 @@
-package LoianeEx1;
+package ContaBanco;
 
 public class ContaEspecial extends ContaBancaria{
     private int limite;
