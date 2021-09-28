@@ -1,4 +1,4 @@
-package LoianeEx2;
+package Imposto;
 
 public class PessoaJuridica extends Contribuintes{
 
